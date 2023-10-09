@@ -1,0 +1,32 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background-image:linear-gradient(rgba(24, 24, 24, 0.594),rgba(0, 0, 0, 0.621)), url(https://c4.wallpaperflare.com/wallpaper/733/88/989/dark-black-and-white-abstract-black-background-wallpaper-preview.jpg);
+
+}
+
+*{font-family:lucida; color: white;}
+h1 {
+    color:yellow;
+    
+}
+h2{color: yellow;}
+
+button {
+    background-color: #0074d9;
+    color: #fff;
+    padding: 10px 20px;
+    border: none;
+    cursor: pointer;
+    margin: 10px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+
+ul {
+    list-style: none;
+    padding: 0;
+}
+
+li {
+    margin: 5px 0;
+}
